@@ -12,7 +12,7 @@ Content :
 ## JUnit 5 Example for Maven
 
 Folder : Demojunit_maven <br>
-Java version : 8 <br>
+Java version : 16 <br>
 Content :
 - Add JUnit 5 to Maven
 - Unit test a method

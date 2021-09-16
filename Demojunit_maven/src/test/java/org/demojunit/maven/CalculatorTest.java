@@ -35,5 +35,3 @@ class CalculatorTest {
 // checklist before
 // add method
 // OK
-
-// note: maven 2 does not support Java 16
